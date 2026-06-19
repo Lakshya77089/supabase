@@ -19,4 +19,7 @@
 /apps/studio/components/interfaces/Organization/Documents/          @supabase/security
 /apps/studio/pages/new/index.tsx                                    @supabase/security
 
+/packages/shared-data/compute-disk-limits.ts @supabase/platform
+
+# TODO: Remove once groups have been renamed
 /packages/shared-data/compute-disk-limits.ts @supabase/infra
